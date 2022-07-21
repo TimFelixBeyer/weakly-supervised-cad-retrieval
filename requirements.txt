@@ -1,0 +1,10 @@
+numpy-quaternion >= 2020.9.5.14.42.2
+open3d >= 0.14.1+5b5a5df2a
+pandas >= 1.4.1
+Pillow >= 8.4.0
+pytorch-metric-learning >= 0.9.99
+pytorch3d >= 0.6.0
+torch == 1.7.0
+torchvision >= 0.8.1
+tqdm >= 4.62.3
+trimesh >= 2.35.39

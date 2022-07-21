@@ -1,0 +1,10 @@
+{
+	"scannet": "/pathto/public/v2/scans/",
+	"scannet_sens": "/pathto/public/v1/scans/",
+	"shapenet": "/pathto/ShapeNetCore.v2/",
+	"scan2cad": "/pathto/scan2cad/",
+	"scan_cad_similarity": "/pathto/scan-cad-similarity/",
+	"_comment": "Edit the following values as desired to specify the save location",
+	"scannet_instances": "/pathto/scannet-instances/",
+	"shapenet_instances": "/pathto/shapenet-instances/"
+}
